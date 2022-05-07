@@ -1,0 +1,1 @@
+{"variants":{"receiving=true":{"model":"powermoney:power_receiver_on"},"receiving=false":{"model":"powermoney:power_receiver_off"}}}

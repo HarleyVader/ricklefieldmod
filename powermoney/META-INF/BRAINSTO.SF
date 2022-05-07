@@ -1,0 +1,345 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: srm15bqO2BZ+scVv90M3uTZsOhORm
+ 87/MMhjR91H674=
+SHA-256-Digest-Manifest: L8jWrrtc3pGiJWka9jvk1h9G29eomZWHRuogJIbL7C8=
+Created-By: 1.8.0_275 (AdoptOpenJDK)
+
+Name: dev/aura/powermoney/common/compat/computercraft/peripheral/Power
+ ReceiverPeripheralProvider.class
+SHA-256-Digest: 1853Gdws6QXrwycHcB9c6aOuc0dPqCfj9UoZr4/IlX0=
+
+Name: dev/aura/powermoney/common/helper/ReceiverData.class
+SHA-256-Digest: Pk3U3wbRn44TfC29oNBY+pT2c75F3NMSRaK6h9serHY=
+
+Name: dev/aura/powermoney/common/CommonProxy.class
+SHA-256-Digest: C7pA0ziA/7PWg3a3z1SFB2LdpVF0Vj3z4rLkHR9IJSI=
+
+Name: assets/powermoney/models/item/power_receiver.json
+SHA-256-Digest: XR0GiJPX8S0ikoK2m57adpn3C9RjM3pvvYWE5i5aX/M=
+
+Name: dev/aura/powermoney/common/advancement/criterion/CriterionEaster
+ Egg$Listeners.class
+SHA-256-Digest: x231/Z5UJKMbLbs1RpQURgpFMbffgNsGx0OzhE+bj1k=
+
+Name: dev/aura/powermoney/client/handler/ConfigChangedHandler.class
+SHA-256-Digest: 34kMucnYqCsOtPo85+OgLwXFJBDHPxcR9r6GbmOH7B8=
+
+Name: dev/aura/powermoney/common/compat/hwyla/HwylaPlugin.class
+SHA-256-Digest: O5Vg2Q9g/o7eq2CkhB5zVsMW+VQkd0o5uF7ChbdYzTs=
+
+Name: dev/aura/powermoney/common/compat/PowerMoneyModules.class
+SHA-256-Digest: frrE+JAeQ/UTrL+sYH/MBbu1gNuSzLe0ikce/0hVcJQ=
+
+Name: dev/aura/powermoney/client/helper/PowerMoneyCreativeTab.class
+SHA-256-Digest: eiGrc/fMgVa4u0arlwfZiaR45aooWdo2zI1sZ4zd7jo=
+
+Name: assets/powermoney/advancements/easter_egg.json
+SHA-256-Digest: L5UOn4jiQ32UuLSUs69bunHInVfOkjb0pxUfVujx2xc=
+
+Name: dev/aura/powermoney/common/payment/SimulateMoneyInterface.class
+SHA-256-Digest: 8kGdz/OugkLX+qP3KcKDlNh4q6LjYj91oDtrrDUNslc=
+
+Name: dev/aura/powermoney/common/payment/MoneyCalculatorRoot.class
+SHA-256-Digest: t2Rln6cDkoi1pK1gY4tu8rg2vLPKNXvJ3rlmq3uILJk=
+
+Name: dev/aura/powermoney/common/compat/grandeconomy/GrandEconomyMoney
+ Interface.class
+SHA-256-Digest: 0WkYnR6mIGIKN8SYlUsIvR1Ub3B5ALWWrwZ0Nwou4PI=
+
+Name: dev/aura/powermoney/common/config/PowerMoneyConfigWrapper.class
+SHA-256-Digest: VPr8SNupQC2cKKiW6tGOPMx+i/tzzsjqGtGUHXaNdJU=
+
+Name: dev/aura/powermoney/common/compat/enderpay/EnderPayCompat.class
+SHA-256-Digest: 4ptqlIEHTp6jGkRzPGFNHcvss9gUhRf+wWuXO9Xptw8=
+
+Name: dev/aura/powermoney/network/helper/SerializationHelper.class
+SHA-256-Digest: ppeHLM+McnUU24WgF9gy2E1Kq8pnXRrAdyXNmZFa94E=
+
+Name: dev/aura/powermoney/client/gui/GuiPowerReceiver$StarAnimation.cl
+ ass
+SHA-256-Digest: f4/YxdBsWJVBdBJJ55PFV9yLrFhz/omz9U09RcaXPQs=
+
+Name: dev/aura/powermoney/common/helper/ReceiverData$Translator.class
+SHA-256-Digest: 0kCKrBZOavSLY+Gm4VaDwmNAbIpKdR2c2vG4mD78tsc=
+
+Name: dev/aura/powermoney/network/packet/clientbound/PacketReceiverDis
+ abled.class
+SHA-256-Digest: ABML0x0X8dMcRDRS0ir26E58C7hgKGtaMBD7ZbtLJdQ=
+
+Name: dev/aura/powermoney/api/package-info.class
+SHA-256-Digest: YPOMof2FmTgkR8JfGjoQjnoj1BSfXEcjcSt0CWEu9go=
+
+Name: dev/aura/powermoney/common/compat/opencomputers/component/PowerR
+ eceiverEnvironment.class
+SHA-256-Digest: q79YQVUe6YNsXrE7YcI+mDRUUQnoh6pqM7uhqBvIXVc=
+
+Name: dev/aura/powermoney/common/compat/buildcraft/BuildcraftCompat.cl
+ ass
+SHA-256-Digest: k14nN5t6XoEx/1+Lm57TJFBInQdco4gZVPMXeuoRTfY=
+
+Name: assets/powermoney/recipes/block/power_receiver.json
+SHA-256-Digest: SzbIoOvyt90dSG1beq8FcJVwyiLXjkktMDI/8y9okXA=
+
+Name: dev/aura/powermoney/common/compat/enderpay/EnderPayMoneyInterfac
+ e.class
+SHA-256-Digest: IpYpk6EFn/kh9xh76CGowYtVlidQ/oILe8SlDwZ8k64=
+
+Name: dev/aura/powermoney/network/packet/AbstractMessageHandler.class
+SHA-256-Digest: /0/GnYKv/bVx6DVGJ6lz0dZFY7xic8OGgieS+Vk+/Eg=
+
+Name: dev/aura/powermoney/common/compat/theoneprobe/PowerReceiverDataP
+ rovider.class
+SHA-256-Digest: xD9NFVwhpmSWjOfX+Vo/bze1enDRfOnT4RRWrtIMc50=
+
+Name: dev/aura/powermoney/PowerMoneySounds.class
+SHA-256-Digest: wToSVEjfF2i1CCWzE4LtKDjrscO2eEG3K1Yk9+AvMbs=
+
+Name: assets/powermoney/lang/de_DE.lang
+SHA-256-Digest: iSXE3eHdU40kAvU65rlHSz9Iqcpe7cHEOpWupgN1VcI=
+
+Name: dev/aura/powermoney/PowerMoney.class
+SHA-256-Digest: Kht2vJKVJEEVbaAVhNS4QrzJTxgdQZJ+ZwymQ5NCqJ4=
+
+Name: assets/powermoney/sounds/nyan/intro.ogg
+SHA-256-Digest: bR94JuO38st6hRYQeSar8kJZypUg6ONXeTOEPL1cPO8=
+
+Name: dev/aura/powermoney/common/advancement/criterion/CriterionEaster
+ Egg$Instance.class
+SHA-256-Digest: sayOE1o8rLCPBOa9EKIaKz9dHEzm9qrQsvdzsXl0XTk=
+
+Name: assets/powermoney/models/block/power_receiver_on.json
+SHA-256-Digest: oeu+cH8a4HvMSuHcpmM5Y3Ay/aZ8wDibYsY4T3AG4zQ=
+
+Name: dev/aura/powermoney/common/command/BaseCommand.class
+SHA-256-Digest: 8hHleagNq/HmHBQBb3QJ0NLBPkOROr3GZI0m0jYySls=
+
+Name: dev/aura/powermoney/network/packet/clientbound/AbstractClientMes
+ sageHandler.class
+SHA-256-Digest: 8pkrXfVNJwG1x75MDGRHTkkUHJuGwbphbfLu+ZUVcgQ=
+
+Name: dev/aura/powermoney/common/compat/ModuleInformation.class
+SHA-256-Digest: EPOOKsFW4N6kC4c+Wm6eR+IsFjv/a1PJvug1NXCxU8g=
+
+Name: dev/aura/powermoney/network/packet/serverbound/PacketChangeRequi
+ resReceiverData.class
+SHA-256-Digest: H0UEAYcd7Qq+26VeehEnZVZXKKbUwSu9L3m8omXsNe4=
+
+Name: dev/aura/powermoney/common/container/ContainerGeneric.class
+SHA-256-Digest: qPh5mZOgbtcAxXltJKGXvOWIOyh88Bh0xbasNKJF2V0=
+
+Name: dev/aura/powermoney/common/compat/theoneprobe/TheOneProbeCompat$
+ GetTheOneProbe.class
+SHA-256-Digest: UU/btRKWv66Sonq5EF50N3uKjqYUzXTu0Y5ZPYwg7xc=
+
+Name: dev/aura/powermoney/common/tileentity/TileEntityPowerReceiver.cl
+ ass
+SHA-256-Digest: YYXwhwsf/xMuaKQQQfjLWi61KoW5hFqw1pXBF67Q0iY=
+
+Name: dev/aura/powermoney/client/gui/GuiPowerReceiver$1.class
+SHA-256-Digest: avO+Cf9PbJ076LxoIjE2dXUme+LnBqhKyl+o99UDixA=
+
+Name: dev/aura/powermoney/common/compat/Module.class
+SHA-256-Digest: liCccuSOh6kZLb1C/9B9nOXF9AXSzubOxjCrSdfBdVg=
+
+Name: dev/aura/powermoney/network/packet/clientbound/PacketSendReceive
+ rData$Handler.class
+SHA-256-Digest: ZeR59bxg+wQJ4Tg6X4IJ4sCUO/BH2lrEciDIuFMs+Z0=
+
+Name: assets/powermoney/textures/gui/power_receiver.png
+SHA-256-Digest: 5VaqEAyiaKOOw3bjCU6IsdvnAknpsADvbBiMY5wnyYE=
+
+Name: dev/aura/powermoney/network/packet/serverbound/PacketEasterEgg$H
+ andler.class
+SHA-256-Digest: CJOkPJfG4sZy0HgG2h042lFS+0ROwsvHX5KCCaSZ6nY=
+
+Name: assets/powermoney/lang/en_UD.lang
+SHA-256-Digest: 0pTBrf0RAaCWVkina7gPQPtQ4vj7ElTa1Ija5QTa9XU=
+
+Name: assets/powermoney/textures/logo.png
+SHA-256-Digest: Hvsr/e3CECf66oQTakfcbT1C/m92r/n77Q9wBvAouag=
+
+Name: assets/powermoney/textures/blocks/power_receiver_off.png
+SHA-256-Digest: Yf96gkcXBqjb60uviDhwEUDlRq30QsPFKvfhZ5BssHM=
+
+Name: dev/aura/powermoney/common/compat/grandeconomy/GrandEconomyCompa
+ t.class
+SHA-256-Digest: yuTN2U+Gfw237pG3gVGei7wbv/aSiVKY63JGKXKaYwg=
+
+Name: dev/aura/powermoney/common/compat/sponge/SpongeMoneyInterface.cl
+ ass
+SHA-256-Digest: bt0JPf4Y/1h4rmmDp4ZSjXKii6L+oBoBQwFlYnd0qwE=
+
+Name: assets/powermoney/lang/en_US.lang
+SHA-256-Digest: azmLCyZQgeHU3e82GBp77zDvVa4xuQo/txJrzwDkPuQ=
+
+Name: dev/aura/powermoney/network/packet/clientbound/PacketReceiverDis
+ abled$Handler.class
+SHA-256-Digest: XtU2s4926UgKdtSL7TC4IBHgdMl9p5yYwdOnWT80GtA=
+
+Name: assets/powermoney/textures/blocks/power_receiver_on.png
+SHA-256-Digest: cjojYuYhxvBUVgKEG1LsReMkzfNcIVYWT+HVIMC3AbQ=
+
+Name: mcmod.info
+SHA-256-Digest: Yp8e3x4X6l+MLiczisGgTcbw29uHzjxmHX8xxBTtmbw=
+
+Name: dev/aura/powermoney/PowerMoneyItems.class
+SHA-256-Digest: 1nQCTMLRDqp7vw/Md/I/f7FerzDyI9jW/Z4Xd/b+x7Q=
+
+Name: assets/powermoney/advancements/root.json
+SHA-256-Digest: fNbHQK11kc84CxPaDNe6eDL7Vc8kskvIOyQuNp/3Ls8=
+
+Name: assets/powermoney/sounds.json
+SHA-256-Digest: Ve6pnW/QyWB6kyyJ9hB8VfIHjTU9iczjlSwyxNntrZw=
+
+Name: dev/aura/powermoney/api/PowerMoneyApi.class
+SHA-256-Digest: jWnGMK2824QIAeAf9eORVJpPprZ1VBg81gmv6VjFO3U=
+
+Name: dev/aura/powermoney/network/packet/clientbound/PacketSendReceive
+ rData.class
+SHA-256-Digest: oEtcGtdOfzH6HdAcvRrNYYSPokdVbGhvIYl82vVD7g8=
+
+Name: dev/aura/powermoney/common/compat/theoneprobe/TheOneProbeCompat.
+ class
+SHA-256-Digest: pU4pGVbsVOysnlPzKtGIAdxf2X2MAeHur5MEcAeFf2c=
+
+Name: dev/aura/powermoney/client/helper/ReceiverDataClient.class
+SHA-256-Digest: f1SHzM0eDdwFwv4S5lRThvMfhhcIEol4FLTWFRi3UBE=
+
+Name: dev/aura/powermoney/client/ClientProxy.class
+SHA-256-Digest: tomAHkTuDAFoiuGiJlUWWdGeGJYfOXhGxB8h7XgDC7c=
+
+Name: assets/powermoney/recipes/_constants.json
+SHA-256-Digest: ksufQOGl4rbJMP/qd3cIU8Mc8xr0X2CU+aSuo/u3JKk=
+
+Name: dev/aura/powermoney/common/handler/PowerMoneyTickHandler$Receive
+ rPosition.class
+SHA-256-Digest: x8sjLvBhxs/7WVpIfo4JIuWPGZqHLsHG/PF2AFqqB4I=
+
+Name: dev/aura/powermoney/client/gui/GuiPowerReceiver.class
+SHA-256-Digest: DL8ffs1NHzd/igBihXnWA4T6bnsPEMxGi58abISFcGM=
+
+Name: dev/aura/powermoney/common/compat/opencomputers/component/PowerR
+ eceiverDriver.class
+SHA-256-Digest: dd2r4a/bc3JJvK0XmNM5gdWbMzTUG4m23cEaIeMQK4Y=
+
+Name: dev/aura/powermoney/common/compat/opencomputers/OpenComputersCom
+ pat.class
+SHA-256-Digest: sxrBG3R792+7mjIHYercSscA3cjpTyw+wsn7H9HHSV8=
+
+Name: dev/aura/powermoney/PowerMoneyBlocks.class
+SHA-256-Digest: rJWsmz01Cx5Irn+5HwQdWO3yOgoCKBe3QVZEN8+yIxs=
+
+Name: LICENSE
+SHA-256-Digest: zqUs0Lc3k4fZoepRxZ3XoKbt49uWvtKIKAQGlh9Gjrk=
+
+Name: dev/aura/powermoney/client/gui/config/PowerMoneyConfigGUI.class
+SHA-256-Digest: mKkG9DhNHzN5X/BCrUstleAJ2/lRFggXPXmaQv01680=
+
+Name: dev/aura/powermoney/network/PacketDispatcher.class
+SHA-256-Digest: Qky2VZ/wPbpU28xhmGoBjoBJ5uwsfAZfOEiH7PLmg5E=
+
+Name: dev/aura/powermoney/common/compat/computercraft/ComputerCraftCom
+ pat.class
+SHA-256-Digest: uQmBh0fJCwh3GV1hfbizwbaFjbEOP1ex3m8FgmU5I8c=
+
+Name: dev/aura/powermoney/network/packet/serverbound/PacketEasterEgg.c
+ lass
+SHA-256-Digest: LyFvLltArvQ/K1HYKbHsrMvIySF04Br7wPViF/2eKf8=
+
+Name: CHANGELOG.md
+SHA-256-Digest: 9VVxd5SLYIW6HIurW8jgFzpRBSDDgl0sMJioRfLGF+Y=
+
+Name: README.md
+SHA-256-Digest: KQOkb/A0qdamo5X4pt2DE5R9Qxz4qDyQxqzyBjWpQ2Q=
+
+Name: dev/aura/powermoney/api/MoneyInterface.class
+SHA-256-Digest: OLZ6liK4SljND7djMA7yi11J6PGy65DPVJ25kSv8Lik=
+
+Name: dev/aura/powermoney/network/PowerMoneyGuiHandler.class
+SHA-256-Digest: SCtMHu5QazDtF7R+tBLKgQ84dUVaGABKtcP3TxnZxl4=
+
+Name: dev/aura/powermoney/common/advancement/criterion/CriterionEaster
+ Egg.class
+SHA-256-Digest: xX0LVUVmDFjunLvqut/qKCjhdrWjZ0Y908H9A11jxek=
+
+Name: dev/aura/powermoney/common/compat/IModIntegration.class
+SHA-256-Digest: xgVEhDIWK4vsTpGmGCxr/ujhgdVXuTwOlrcjTkx2N58=
+
+Name: dev/aura/powermoney/common/block/BlockPowerReceiver.class
+SHA-256-Digest: X8PF6tEX/8FCLFcbv0h99zo21J7qvPlAg5ARvzyebpE=
+
+Name: dev/aura/powermoney/client/gui/config/PowerMoneyGuiFactory.class
+SHA-256-Digest: OUSSZUnlVpd/L4/SZLhLalbIF9uyMjAPnBLTj0T63jQ=
+
+Name: assets/powermoney/blockstates/power_receiver.json
+SHA-256-Digest: eqQTZbfcAZGef7Cq8ce3EUnkHpWINRgpYUWsEw4MAK4=
+
+Name: dev/aura/powermoney/common/compat/oxygen/OxygenCompat.class
+SHA-256-Digest: vwto2UXpH3FQN7EeoX0k0nwzusXXf7X0tHPq1GZ/Lw0=
+
+Name: dev/aura/powermoney/common/helper/WorldBlockPos.class
+SHA-256-Digest: ZSUKA3vqtLBcIMROzRtNu8tEo6XdxnqEn2QOm/AlOxU=
+
+Name: dev/aura/powermoney/common/compat/oxygen/OxygenMoneyInterface.cl
+ ass
+SHA-256-Digest: vMcpgB08klQX+cEk5yGnPQu1a7Hz/Y8sGgpDayhcMNE=
+
+Name: assets/powermoney/lang/ru_RU.lang
+SHA-256-Digest: V/ZgOdIq9L8rWQMKnoHWihsT/CZwUtk/FcD+3FdW+BY=
+
+Name: assets/powermoney/textures/gui/power_receiver_easter_egg.png
+SHA-256-Digest: ZIFB/kW8mDGeXZf8UUWt6XR8HTxeQ3Dg5lk5LfF6qM8=
+
+Name: dev/aura/powermoney/common/advancement/CriterionRegistry.class
+SHA-256-Digest: YzFzobZdvhrTHDMTiySBt2/IoDNl3eB8EJyeSoOb5/U=
+
+Name: dev/aura/powermoney/common/payment/MoneyCalculatorLog.class
+SHA-256-Digest: 2U9CJ0jV59lRE0FR7EvFbBVpqR0gH0lOMDRnYBd4aAA=
+
+Name: dev/aura/powermoney/client/gui/GuiPowerReceiver$SoundLoop.class
+SHA-256-Digest: 6+2qs5m5zPO6H+JmVSkqcVEe3066AQLJ4H99E3/KajQ=
+
+Name: dev/aura/powermoney/common/compat/computercraft/peripheral/Perip
+ heralMethod.class
+SHA-256-Digest: 60CAQ+AmTDL8G3pHeaDBGG78iKmfm9w4QR2mbENAigY=
+
+Name: dev/aura/powermoney/common/handler/PowerMoneyTickHandler.class
+SHA-256-Digest: fOtxUPQl3+UFfaW1P4nQrR2w7sd8YMtElH36YtuHZWs=
+
+Name: dev/aura/powermoney/common/compat/tesla/TeslaCompat.class
+SHA-256-Digest: zG7ng/SL3ZjyHPFQ4FtL3x0Lns49fndxI4N+N6/HX7s=
+
+Name: dev/aura/powermoney/common/compat/sponge/SpongeCompat.class
+SHA-256-Digest: ig+sD74rtJOl/N4FLB7dfOS7KkNgV9MUh+DZaXe0JPw=
+
+Name: assets/powermoney/sounds/nyan/loop.ogg
+SHA-256-Digest: cre7W87OCsnQWdiV2s4jOBjVX97zgwB2naF2uCpDOZ0=
+
+Name: dev/aura/powermoney/common/capability/EnergyConsumer.class
+SHA-256-Digest: WejRScPhF+zsZ21pUb0ABKqoNTka5eClvxu3Kx+QnKI=
+
+Name: dev/aura/powermoney/common/compat/computercraft/peripheral/Power
+ ReceiverPeripheral.class
+SHA-256-Digest: XS/kAhfAGGGpBEpRKrlC5Q5/Z1C51qJnX8IzB8QRhSw=
+
+Name: assets/powermoney/models/block/power_receiver_off.json
+SHA-256-Digest: wLZcGM5ITMtMYoelsWkDJiLA7g1ddS0sGrEBCaFUpSk=
+
+Name: assets/powermoney/lang/zh_CN.lang
+SHA-256-Digest: hoCTR3Og2y2+mvfU3TYKP3J1ZyyRJ5j3IYdHE+i1j3A=
+
+Name: dev/aura/powermoney/network/packet/serverbound/PacketChangeRequi
+ resReceiverData$Handler.class
+SHA-256-Digest: y7m6sLeQF4LII3YP6vD7NGxsEq1qhRE/ZaiIA78ZVkY=
+
+Name: dev/aura/powermoney/common/payment/MoneyCalculator.class
+SHA-256-Digest: xS7LkvMp9K5A+DvPWypz4LV9siWX6ZL9vlu+NZ7zGOY=
+
+Name: dev/aura/powermoney/network/packet/serverbound/AbstractServerMes
+ sageHandler.class
+SHA-256-Digest: 4VM+2oNx/LV+CdMaGT8HyAvgx2ev3jSMogB5eLM62AI=
+
+Name: dev/aura/powermoney/common/compat/hwyla/PowerReceiverDataProvide
+ r.class
+SHA-256-Digest: rm0QZQy5MMgyRzNtaJYaQRh1Teg8b8ZoAuA8JGaH3as=
+

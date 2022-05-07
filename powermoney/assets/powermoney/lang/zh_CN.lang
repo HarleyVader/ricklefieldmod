@@ -1,0 +1,17 @@
+tile.power_receiver.name=电力变现
+
+container.power_receiver=电力变现
+
+itemGroup.powermoney=电力变现
+
+gui.powermoney.decimalseparator=.
+gui.powermoney.groupingseparator=,
+gui.powermoney.owner=所有者
+gui.powermoney.owner.notyou=不是你
+gui.powermoney.waiting=等待...
+gui.powermoney.disabled=在服务器上禁用
+gui.powermoney.localenergy=单个能量
+gui.powermoney.totalenergy=总能量
+gui.powermoney.totalearning=总收益
+gui.powermoney.energyunit=FE
+gui.powermoney.persecond=/s
